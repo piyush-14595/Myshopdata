@@ -1,0 +1,6 @@
+{
+  "name": "Piyush Krushi Sewa Kendra - Billing & Inventory",
+  "description": "Smart billing software, automated invoices, farmer khata ledger, batch inventory, low-stock alerts, customizable templates, and payment reminders for Piyush Krushi Sewa Kendra.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
